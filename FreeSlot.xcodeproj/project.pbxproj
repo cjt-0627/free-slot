@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		A20CEF5D3015912900F26541 /* FreeSlot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FreeSlot.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A20CEF5D3015912900F26541 /* FreeSlot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = FreeSlot.app; path = "/Users/chenjingting/Developer/swift/FreeSlot/build/Debug-iphoneos/FreeSlot.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				A20CEF5F3015912900F26541 /* FreeSlot */,
-				A20CEF5E3015912900F26541 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		A20CEF5E3015912900F26541 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				A20CEF5D3015912900F26541 /* FreeSlot.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = A20CEF543015912900F26541;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = A20CEF5E3015912900F26541 /* Products */;
+			productRefGroup = A20CEF543015912900F26541;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
