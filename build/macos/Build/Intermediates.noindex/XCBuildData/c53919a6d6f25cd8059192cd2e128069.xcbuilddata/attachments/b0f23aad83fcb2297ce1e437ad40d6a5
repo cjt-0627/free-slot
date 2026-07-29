@@ -1,0 +1,4 @@
+module GoogleUtilities_Environment {
+umbrella "/Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Environment/Public"
+export *
+}

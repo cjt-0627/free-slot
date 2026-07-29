@@ -1,0 +1,4 @@
+module google_sign_in_ios {
+umbrella "/Users/chenjingting/Developer/swift/FreeSlot/macos/Flutter/ephemeral/Packages/.packages/google_sign_in_ios-6.3.0/Sources/google_sign_in_ios/include"
+export *
+}

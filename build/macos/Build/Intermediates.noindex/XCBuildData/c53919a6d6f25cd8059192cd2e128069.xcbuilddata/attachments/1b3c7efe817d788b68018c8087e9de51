@@ -1,0 +1,4 @@
+module GoogleUtilities_Logger {
+umbrella "/Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Logger/Public"
+export *
+}

@@ -1,0 +1,4 @@
+module GoogleSignIn {
+umbrella header "/Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/Public/GoogleSignIn/GoogleSignIn.h"
+export *
+}

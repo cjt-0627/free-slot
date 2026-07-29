@@ -1,0 +1,4 @@
+module third_party_IsAppEncrypted {
+umbrella "/Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleUtilities/third_party/IsAppEncrypted/Public"
+export *
+}

@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDSignIn.m \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Intermediates.noindex/GoogleSignIn.build/Debug/GoogleSignIn.build/DerivedSources/resource_bundle_accessor.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignIn.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AppKit.framework/Modules/module.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDSignIn_Private.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/Public/GoogleSignIn/GIDConfiguration.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/Public/GoogleSignIn/GIDGoogleUser.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Intermediates.noindex/GeneratedModuleMaps/GTMSessionFetcherCore.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/Public/GoogleSignIn/GIDProfileData.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignInResult.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDAuthStateMigration/GIDAuthStateMigration.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDEMMSupport.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDSignInInternalOptions.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDSignInPreferences.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDCallbackQueue.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDScopes.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDSignInCallbackSchemes.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDClaimsInternalOptions.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDGoogleUser_Private.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Intermediates.noindex/GeneratedModuleMaps/AppAuth.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Intermediates.noindex/GeneratedModuleMaps/AppAuthCore.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDProfileData_Private.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleSignIn-iOS/GoogleSignIn/Sources/GIDSignInResult_Private.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Intermediates.noindex/GeneratedModuleMaps/GTMAppAuth.modulemap

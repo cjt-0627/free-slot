@@ -1,0 +1,4 @@
+module GoogleUtilities_UserDefaults {
+umbrella "/Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/UserDefaults/Public"
+export *
+}

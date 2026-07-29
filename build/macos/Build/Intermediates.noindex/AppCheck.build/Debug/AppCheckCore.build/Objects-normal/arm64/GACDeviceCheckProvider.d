@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/DeviceCheckProvider/GACDeviceCheckProvider.m \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckAvailability.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/module.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/Public/AppCheckCore/GACDeviceCheckProvider.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckProvider.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/Core/GACAppCheckLogger+Internal.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckErrors.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckLogger.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/DeviceCheckProvider/API/GACDeviceCheckAPIService.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/DeviceCheckProvider/DCDevice+GACDeviceCheckTokenGenerator.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/DeviceCheck.framework/Modules/module.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/DeviceCheckProvider/GACDeviceCheckTokenGenerator.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/Public/AppCheckCore/GACAppCheckToken.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/Public/AppCheckCore/_GACAppCheckAPIService.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/Public/AppCheckCore/_GACAppCheckBackoffWrapper.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/app-check/AppCheckCore/Sources/Public/AppCheckCore/_GACAppCheckErrorUtil.h

@@ -1,0 +1,23 @@
+moduledependenciestarget: \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/module.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/SourcePackages/checkouts/promises/Sources/FBLPromises/include/FBLPromise+Testing.h

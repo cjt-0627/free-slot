@@ -1,0 +1,1 @@
+ /Users/chenjingting/Developer/swift/FreeSlot/.dart_tool/flutter_build/94a4c6b5493e0421efdbfeda946f37ee/native_assets.json: 

@@ -1,0 +1,22 @@
+moduledependenciestarget: \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Modules/module.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterMacOS.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterAppDelegate.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/System/Library/Frameworks/Cocoa.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/System/Library/Frameworks/AppKit.framework/Modules/module.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterAppLifecycleDelegate.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterMacros.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterChannels.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterCodecs.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterDartProject.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterEngine.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterHourFormat.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterPluginRegistrarMacOS.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterPlatformViews.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterPluginMacOS.h \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterTexture.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk/System/Library/Frameworks/CoreMedia.framework/Modules/module.modulemap \
+  /Users/chenjingting/Developer/swift/FreeSlot/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterViewController.h
